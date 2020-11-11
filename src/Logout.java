@@ -4,3 +4,4 @@ public class Logout {
     }
 }
 // logout function added
+// thank you for using our service
